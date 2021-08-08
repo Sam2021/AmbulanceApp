@@ -1,12 +1,11 @@
 
 
-#Project Name - 
+# Project Name - 
 	LIFE SAVING AMBULANCE SYSTEM
 
-#TAGLINE - 
-	Peforms following functions - 
+# Peforms following functions - 
   1. Login and signup using email and password	
 	
-#Technologies we used - 
-	-React Native 
+# Technologies we used - 
+  -React Native 
   -Firebase
