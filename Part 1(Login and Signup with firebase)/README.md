@@ -1,20 +1,11 @@
-# React Native Firebase Login Screen
-
-This repo is proudly sponsored by:
-
-![Logo]()
- 
 
 
+# Project Name - 
+	LIFE SAVING AMBULANCE SYSTEM
 
-
-```
-
-## Preview
-
-![homescreen](assets/Firstscreen.jpg)
-![login]
-![register]
-![forgot]
-![dashboard]
-
+# Peforms following functions - 
+  1. Login and signup using email and password	
+	
+# Technologies we used - 
+  -React Native 
+  -Firebase
